@@ -2,34 +2,35 @@
   {
     "name": "Rohit Sharma",
     "team": "India",
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/rohit.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/common/rohit.jpg"
     "category": "common"
   },
   {
     "name": "Virat Kohli",
     "team": "India",
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/virat.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/common/virat.jpg"
     "category": "common"
   },
   {
     "name": "Shubman Gill",
     "team": "India",
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/gill.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/common/gill.jpg"
     "category": "common"
   },
    {
     "name": "Hardik Pandya"
     "team": "India"
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/hardik.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/common/hardik.jpg"
     "category": "common"
   },
   {
     "name": "Rishabh Pant"
     "team": "India"
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/rishabh.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/common/rishabh.jpg"
     "category": "common"
   },
 ]
+
 
 
 
